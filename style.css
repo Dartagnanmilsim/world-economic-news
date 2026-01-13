@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f6f8;
+  color: #222;
+}
+
+header {
+  background: #0b1c2d;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+#controls {
+  text-align: center;
+  margin: 20px;
+}
+
+button {
+  padding: 12px 25px;
+  font-size: 16px;
+  border: none;
+  background: #1a73e8;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#news {
+  padding: 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.article {
+  background: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.source {
+  font-size: 14px;
+  color: #666;
+}
